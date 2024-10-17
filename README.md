@@ -31,7 +31,7 @@ Step-by-step algorithm:
 
 OUTPUT: Below is the output of the Program
 
-https://media.geeksforgeeks.org/wp-content/uploads/20200827185026/Outputsforguessinggame.JPG
+![image](https://github.com/user-attachments/assets/97b7c41f-f251-4604-8531-de7a556e68cf)
 
 Time Complexity: 
 The time complexity of this code is O(log2n) where n is the difference between lower and upper bound of the range.
